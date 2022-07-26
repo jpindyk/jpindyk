@@ -9,7 +9,6 @@
 
 ### Contact 📫
 jakub.pindyk@gmail.com
-![image](https://user-images.githubusercontent.com/96888748/181116845-303f9f02-737d-4b14-a033-5ccdbe1c367c.png)
 
 
 ### Technology stack :zap:

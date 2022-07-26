@@ -11,9 +11,15 @@
 jakub.pindyk@gmail.com
 
 ### Technology stack :zap:
-![image](https://user-images.githubusercontent.com/96888748/181114595-9c8d66b0-1ead-44aa-9f55-4f1892d4407e.png)
+https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png
+https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png
+https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png
+https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png
+https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png
 
-
+https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png
+https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png
+https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png
 
 <!--
 **jpindyk/jpindyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

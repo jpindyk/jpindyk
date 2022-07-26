@@ -11,8 +11,7 @@
 jakub.pindyk@gmail.com
 
 ### Technology stack ⭐
-
-![java](https://user-images.githubusercontent.com/96888748/181113880-36c2b638-9cae-4c96-8890-bdb5f20d3181.png)
+https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
 
 
 

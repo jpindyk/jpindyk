@@ -19,7 +19,7 @@ jakub.pindyk@gmail.com
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png" alt="SpringBoot" title="SpringBoot" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/96888748/181116653-63d22c93-cef1-49fa-be00-73754a434478.png" alt="SQL" title="SQL" /></code>
-	<code><img height="50" src"https://user-images.githubusercontent.com/96888748/181116845-303f9f02-737d-4b14-a033-5ccdbe1c367c.png" alt="MySQL" title="MySQL" />
+	<code><img height="50" src="https://user-images.githubusercontent.com/96888748/181116845-303f9f02-737d-4b14-a033-5ccdbe1c367c.png" alt="MySQL" title="MySQL" />
 </code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>

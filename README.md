@@ -11,7 +11,7 @@
 jakub.pindyk@gmail.com
 
 ### Technology stack :zap:
-<div align="center">
+<div align="left">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png" alt="InteliJ" title="InteliJ" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" /></code>

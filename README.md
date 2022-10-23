@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### About me 😄
 
-🎓 Recently, I have finished one-year postgraduate studies **Software Enginerring** at University of Information Technology and Management in Rzeszów, where I worked on my tech and soft skills. I'm still developing my abilities by building projects.
+🎓 Recently, I have finished one-year postgraduate studies **Software Engineering** at University of Information Technology and Management in Rzeszów, where I worked on my tech and soft skills. I'm still developing my abilities by building projects.
 
 🔎 Currently, I'm looking for job as **junior java developer** with the chance to expand my knowledge and develop my skills.
 
